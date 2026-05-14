@@ -49,19 +49,19 @@ List sizes tested:
 | List Size | Comparisons | Swaps |
 |-----------|------------|-------|
 | 1         | 0          | 0     |
-| 2         | 1          | 1     |
-| 3         | 3          | 3     |
-| 4         | 5          | 5     |
-| 5         | 7          | 7     |
-| 10        | 19         | 19    |
-| 250       | [from program] | [from program] |
-| 999       | [from program] | [from program] |
-| 9999      | [from program] | [from program] |
-| 89786     | [from program] | [from program] |
-| 789300    | [from program] | [from program] |
-| 1780000   | [from program] | [from program] |
+| 2         | 1          | 2     |
+| 3         | 3          | 5     |
+| 4         | 4          | 8     |
+| 5         | 7          | 12    |
+| 10        | 19         | 34    |
+| 250       |1011        |1994   |
+| 999       | 5041       | 9965  |
+| 9999      | 69001      |133601 |
+| 89786     | 763675     |1485076|
+| 789300    | 7902900    | 15526724 |
+| 1780000   | 18864528   | 37062848 |
 
-> Replace `[from program]` with actual numbers after running your program.  
+
 
 ---
 
